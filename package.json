@@ -2,6 +2,6 @@
   "name": "comcigan-api",
   "version": "1.0.0",
   "dependencies": {
-    "comcigan-parser": "^2.3.2"
+    "comcigan-parser": "latest"
   }
 }

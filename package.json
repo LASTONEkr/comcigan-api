@@ -1,0 +1,5 @@
+{
+  "name": "comcigan-api",
+  "dependencies": {
+    "comcigan-parser": "*"
+  }
